@@ -1,6 +1,7 @@
-# Standard Version
+# Standard Version Finotta
 
-> **`standard-version` is deprecated**. If you're a GitHub user, I recommend [release-please](https://github.com/googleapis/release-please) as an alternative. I encourage folks to fork this repository and, if a fork gets popular, I will link to it in this README.
+
+> **`standard-version` is deprecated**. This is a forked repository for use by Finotta or anyone else who would like to use it. It has 0 vulnerablities as of this commit and will be updated on a semi-annual cadence to make sure no vulnerabillites come up. In order to remove the vulnerabilites, some test files that used the npm package mockery had to be removed.
 
 A utility for versioning using [semver](https://semver.org/) and CHANGELOG generation powered by [Conventional Commits](https://conventionalcommits.org).
 
